@@ -1,6 +1,6 @@
 # Sarcasm_Detection_NLP
 
-Natural Language Processing Project that labels news headlines as sarcastic to distinguish between fake news and legitimate news. 
+Natural Language Processing Project that labels news headlines as sarcastic to distinguish between legitimate and fake news. 
 The headlines are from The Onion (sarcastic) and The Guardian (not-sarcastic).
 
 Here is the dataset:
